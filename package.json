@@ -4,7 +4,6 @@
   "scripts": {
     "build": "ng build"
   },
-  "private": true,
   "dependencies": {
     "@authress/login": "^2.5.363"
   },
