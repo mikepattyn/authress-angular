@@ -8,12 +8,10 @@ export class AuthressModule {
       ngModule: AuthressModule,
       providers: [
         {
-          provide: AuthressClient,
-          useFactory: () => new AuthressClient(config),
+          provide: LoginClient,
+          useFactory: () => new LoginClient(config),
         },
       ],
     };
   }
 }
-
-export class AuthressClient extends LoginClient { }
