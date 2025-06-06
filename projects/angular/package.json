@@ -1,6 +1,6 @@
 {
   "name": "@mikepattyn/authress-angular",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": "^18",
     "@angular/core": "^18"
@@ -9,5 +9,9 @@
     "tslib": "^2.3.0",
     "@authress/login": "^2.5.363"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/mikepattyn/authress-angular"
+  }
 }

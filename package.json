@@ -13,5 +13,9 @@
     "@angular/compiler-cli": "^18",
     "ng-packagr": "^18",
     "typescript": "^5.4"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/mikepattyn/authress-angular"
   }
 }
