@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "tslib": "^2.3.0",
-    "@authress/login": "^2.5.363"
+    "@authress/login": "*"
   },
   "sideEffects": false,
   "repository": {

@@ -5,7 +5,9 @@
     "build": "ng build"
   },
   "dependencies": {
-    "@authress/login": "^2.5.363"
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "@authress/login": "*"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "*",
